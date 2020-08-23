@@ -1,8 +1,67 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f3233888-59fc-4d0b-bd0b-468e72cc41eb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/API/Article.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/API/CartOrder.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/API/Customer.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/API/Product.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="/usr/local/Cellar/go/1.15/libexec" />
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Thomas Björk &lt;thomas.bjork@evalent.com&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1gVvnNSN9VboZ3p7Wc1YtmWgnCk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="GO_FMT" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Basic commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Basic commit" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="617" y="127" key="CommitChangelistDialog2" timestamp="1598212787738">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="617" y="127" key="CommitChangelistDialog2/213.1103.1440.877/137.-1027.1680.1027/0.23.1920.1057@0.23.1920.1057" timestamp="1598212787738" />
+    <state x="625" y="291" key="Vcs.Push.Dialog.v2" timestamp="1598212797731">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="625" y="291" key="Vcs.Push.Dialog.v2/213.1103.1440.877/137.-1027.1680.1027/0.23.1920.1057@0.23.1920.1057" timestamp="1598212797731" />
   </component>
 </project>
