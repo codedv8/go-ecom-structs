@@ -1,1 +1,1 @@
-# og-ecom-structs
+# go-ecom-structs
