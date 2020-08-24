@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f3233888-59fc-4d0b-bd0b-468e72cc41eb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/API/Article.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/API/CartOrder.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/API/Customer.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/API/Product.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/router.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -24,6 +21,7 @@
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
       <list>
+        <option value="Thomas Björk &lt;micoxdev@gmail.com&gt;" />
         <option value="Thomas Björk &lt;thomas.bjork@evalent.com&gt;" />
       </list>
     </option>
@@ -55,13 +53,13 @@
     <option name="LAST_COMMIT_MESSAGE" value="Basic commit" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="617" y="127" key="CommitChangelistDialog2" timestamp="1598212787738">
+    <state x="617" y="127" key="CommitChangelistDialog2" timestamp="1598215025448">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
-    <state x="617" y="127" key="CommitChangelistDialog2/213.1103.1440.877/137.-1027.1680.1027/0.23.1920.1057@0.23.1920.1057" timestamp="1598212787738" />
-    <state x="625" y="291" key="Vcs.Push.Dialog.v2" timestamp="1598212797731">
+    <state x="617" y="127" key="CommitChangelistDialog2/213.1103.1440.877/137.-1027.1680.1027/0.23.1920.1057@0.23.1920.1057" timestamp="1598215025448" />
+    <state x="625" y="291" key="Vcs.Push.Dialog.v2" timestamp="1598215036992">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
-    <state x="625" y="291" key="Vcs.Push.Dialog.v2/213.1103.1440.877/137.-1027.1680.1027/0.23.1920.1057@0.23.1920.1057" timestamp="1598212797731" />
+    <state x="625" y="291" key="Vcs.Push.Dialog.v2/213.1103.1440.877/137.-1027.1680.1027/0.23.1920.1057@0.23.1920.1057" timestamp="1598215036992" />
   </component>
 </project>
