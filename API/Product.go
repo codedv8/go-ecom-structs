@@ -1,4 +1,4 @@
-package API
+package api
 
 type Product struct {
 	Name        string

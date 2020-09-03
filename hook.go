@@ -1,4 +1,4 @@
-package EComStructs
+package ecomstructs
 
 // HookDummyPayload - Dummy struct that should be removed later on
 type HookDummyPayload struct {

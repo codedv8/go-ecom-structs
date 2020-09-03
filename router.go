@@ -1,4 +1,4 @@
-package EComStructs
+package ecomstructs
 
 import "github.com/gin-gonic/gin"
 
